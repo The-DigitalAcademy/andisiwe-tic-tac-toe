@@ -6,5 +6,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: aqua;
+  font-family: "fredoka", sans-serif;
 }
 
