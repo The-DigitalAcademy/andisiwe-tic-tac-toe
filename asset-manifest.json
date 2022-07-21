@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/andisiwe-tic-tac-toe/static/css/main.2d0258b2.css",
-    "main.js": "/andisiwe-tic-tac-toe/static/js/main.54d0e2bc.js",
+    "main.js": "/andisiwe-tic-tac-toe/static/js/main.ba987b1c.js",
     "index.html": "/andisiwe-tic-tac-toe/index.html",
     "main.2d0258b2.css.map": "/andisiwe-tic-tac-toe/static/css/main.2d0258b2.css.map",
-    "main.54d0e2bc.js.map": "/andisiwe-tic-tac-toe/static/js/main.54d0e2bc.js.map"
+    "main.ba987b1c.js.map": "/andisiwe-tic-tac-toe/static/js/main.ba987b1c.js.map"
   },
   "entrypoints": [
     "static/css/main.2d0258b2.css",
-    "static/js/main.54d0e2bc.js"
+    "static/js/main.ba987b1c.js"
   ]
 }
