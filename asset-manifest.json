@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/andisiwe-tic-tac-toe/static/css/main.bfee07a9.css",
-    "main.js": "/andisiwe-tic-tac-toe/static/js/main.12eeb494.js",
+    "main.css": "/andisiwe-tic-tac-toe/static/css/main.2d0258b2.css",
+    "main.js": "/andisiwe-tic-tac-toe/static/js/main.54d0e2bc.js",
     "index.html": "/andisiwe-tic-tac-toe/index.html",
-    "main.bfee07a9.css.map": "/andisiwe-tic-tac-toe/static/css/main.bfee07a9.css.map",
-    "main.12eeb494.js.map": "/andisiwe-tic-tac-toe/static/js/main.12eeb494.js.map"
+    "main.2d0258b2.css.map": "/andisiwe-tic-tac-toe/static/css/main.2d0258b2.css.map",
+    "main.54d0e2bc.js.map": "/andisiwe-tic-tac-toe/static/js/main.54d0e2bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfee07a9.css",
-    "static/js/main.12eeb494.js"
+    "static/css/main.2d0258b2.css",
+    "static/js/main.54d0e2bc.js"
   ]
 }
